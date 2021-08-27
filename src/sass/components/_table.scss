@@ -6,6 +6,7 @@
 .table {
 	thead {
 		th, td {
+			text-align: center;
 			font-weight: $table-head-font-weight;
 			font-size: $table-head-font-size;
 			border-bottom-width: 1px;
